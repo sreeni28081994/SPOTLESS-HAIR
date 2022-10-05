@@ -264,6 +264,11 @@ i {
 .f1 {
   font-weight: normal;
   cursor: pointer;
+   width: fit-content;
+
+}
+.f1:hover{
+  background-color: yellow;
 }
 .left {
   margin-left: 10%;
